@@ -1,0 +1,145 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedor1 {
+  display: flex;
+  background-color: rgb(209, 248, 235);
+  width: 1100px;
+  position: relative;
+  left: 10%;
+}
+
+.contenedor1 div {
+  height: 70px;
+  margin: 60px;
+  width: 150px;
+}
+
+.contenedor {
+  display: flex;
+  background-color: rgb(209, 248, 235);
+  width: 1100px;
+  position: relative;
+  left: 10%;
+}
+
+.contenedor div {
+  font-weight: bold;
+  height: 0px;
+  margin: 60px;
+  width: 150px;
+}
+
+h2 {
+  position: relative;
+  left: 10%;
+}
+
+.container {
+  display: flex;
+  background-color: aquamarine;
+  width: 400px;
+  position: relative;
+  left: 10%;
+}
+
+.container div {
+  font-weight: bold;
+  height: auto;
+  margin: 10px;
+  width: 100px;
+}
+
+.deb1 {
+  position: absolute;
+  top: 100%;
+  left: 10%;
+}
+
+.deb {
+  position: absolute;
+  top: 90%;
+  left: 10%;
+}
+
+.parrafo {
+  position: absolute;
+  top: 80%;
+  left: 10%;
+  height: auto;
+  width: 27%;
+}
+
+.enfermera {
+  position: relative;
+  left: 50%;
+}
+
+.titulo {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+}
+
+.secprin {
+  font-weight: 700;
+  color: darkgray;
+  text-align: left;
+}
+
+.supDer {
+  background-color: rgb(146, 255, 219);
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  height: 100px;
+  width: 40%;
+}
+
+.boton {
+  background-color: blue;
+  position: absolute;
+  top: 1%;
+  left: 81%;
+  border-radius: 20%;
+}
+
+.blancas {
+  color: aliceblue;
+}
+
+.negritas {
+  font-weight: bold;
+}
+
+p {
+  font-size: 20px;
+}
+
+.div1 {
+  position: relative;
+  left: 10%;
+  width: 400px;
+  height: auto;
+}
+
+.colorRojo {
+  color: red;
+}
+
+.colorAzulMarino {
+  color: rgb(56, 80, 204);
+}
+
+.colorRGBA {
+  color: rgba(93, 217, 94, 0.6);
+}
+
+.colorHEX {
+  color: #ee43e3;
+}
+
+.colorHSL {
+  color: hsl(30, 68%, 31%);
+}
